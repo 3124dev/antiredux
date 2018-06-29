@@ -1,3 +1,3 @@
-import React from "react";
-
-export const Store = React.createContext(null);
+import React from "react"
+const Store = React.createContext(null)
+export default Store
